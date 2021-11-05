@@ -18,6 +18,9 @@
     - 사파리 모바일
     - IE
     - babel
+- 소스 관리
+    - 클래스, 모듈 
+    - 라이브러리
 - 서비스 확장
     - Naver Cloud Function
     - Oracle Cloud
