@@ -1,6 +1,8 @@
 # ProjectIssues
 프로젝트 진행하면서 마주친 문제들이나, 궁금했던 개념들 정리
-## Mapshot_Web
+<details>
+<summary>Mapshot_web</summary>
+
 - 위성 사진 로딩
     - CORS, JSONP
     - SSR, CSR
@@ -27,3 +29,5 @@
     - Emailjs
 - 업데이트 시간
     - Google Analytics    
+
+</details>
