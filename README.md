@@ -25,7 +25,7 @@
     - Naver Cloud Function
     - Oracle Cloud
     - Heroku
-- 도메인 이전
+- [도메인 이전](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%B4%EC%A0%84)
     - freenom
     - netlify
 - 소통 창구
