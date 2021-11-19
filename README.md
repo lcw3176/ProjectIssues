@@ -28,9 +28,9 @@
 - [도메인 이전](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%B4%EC%A0%84)
     - freenom
     - netlify
-- 소통 창구
+- [소통 창구](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EC%86%8C%ED%86%B5%EC%B0%BD%EA%B5%AC)
     - Emailjs
-- 업데이트 시간
+- [업데이트 시간](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%8B%9C%EA%B0%84)
     - Google Analytics    
 
 </details>
