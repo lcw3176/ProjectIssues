@@ -5,9 +5,6 @@
 
 # Mapshot_Web
 
-- 위성 사진 로딩
-    - CORS, JSONP
-    - SSR, CSR
 - 사이트 로딩 속도
     - CDN
     - min.js
@@ -23,9 +20,13 @@
 - 소스 관리
     - 클래스, 모듈 
     - 라이브러리
-- 서비스 확장
-    - Naver Cloud Function
-    - Oracle Cloud
+- [서비스 확장 1편(도시계획 레이어)](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EC%84%9C%EB%B9%84%EC%8A%A4%ED%99%95%EC%9E%A51%ED%8E%B8)
+    - 순탄한 네이버
+    - 레이어는 말이없다
+    - 개발만 한다고 될일이 아니구나
+    - 분명 서울 리전인데?
+    - 이런 로그는 필요없어요
+- 서비스 확장 2편(카카오 지도)
     - Heroku
 - [도메인 이전](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%B4%EC%A0%84)
     - 서비스 오픈
@@ -40,7 +41,7 @@
 - [업데이트 시간](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%8B%9C%EA%B0%84)
     - 패치 타이밍, 근거가 필요하다   
     - Google Analytics로 본 가장의 무게
-
+    
 </details>
 
 
