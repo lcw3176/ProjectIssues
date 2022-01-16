@@ -22,7 +22,8 @@
     - 분명 서울 리전인데?
     - 이런 로그는 필요없어요
 - 서비스 확장 2편(카카오 지도)
-    - Heroku
+    - [MapshotServer](https://github.com/lcw3176/ProjectIssues/tree/master/MapshotServer)에서 확인 가능
+
 - [도메인 이전](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%B4%EC%A0%84)
     - 서비스 오픈
     - 사이트가 펑펑
