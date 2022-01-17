@@ -29,7 +29,24 @@
 ## 대답없는 너
 이제 남은 두 가지 문제가 있었다. 30초 내에 요청을 처리해야 되는데, 헤로쿠 서버 스펙이 좋은 편이 아니라서, 요청이 들어오는 대로 새 인스턴스를 만들면 들어오는 요청 전부가 뻗어버렸다. 그래서 결국 사용된 방법이 일종의 대기 시스템이었다.
 사이트에서는 지속적으로 내가 <strong>사용 가능한 상태인지 지속적으로 요청을 보내고</strong>, 사용 가능하다는 응답이 온다면 그 때 지도 이미지 대기 상태로 들어갔다. 
+``` javascript
+// 앞단
+var xml = new XmlHttpRequest();
+xml.onreadystatechange = function() { 
+    if(this.status == 200 && this.readyState == this.DONE) {
+        if(xml.responseText == true){
+            // 새로운 POST 요청 보내기  
+        }
+                  
+    } else {
+        // GET 요청 다시 보내기
+    }
+};
+xml.open("GET", "serverUrl", true);
+xml.send();
+```
 ```java
+// 서버단
 @GetMapping
 public ResponseEntity getMapping(){
     
