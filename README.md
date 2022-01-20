@@ -51,12 +51,7 @@
     - 눈 좀 뜨세요 헤로쿠씨
     - 대답없는 너
 
-- 공지사항 DB 자료 형식
-    - text
-    - html
-
-- https 도메인
-    - http o<- >x https
-    - certbot
-    - crontab
+- [공지사항 DB 자료 형식](https://github.com/lcw3176/ProjectIssues/tree/master/MapshotServer/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%ADDB%EC%9E%90%EB%A3%8C%ED%98%95%EC%8B%9D)
+    - text? html?
+    - 부분적 html
 </details>
