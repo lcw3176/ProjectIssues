@@ -1,16 +1,7 @@
 # Mapshot_Web
-- 사이트 로딩 속도
-    - CDN
-    - min.js
-    - bootstrap -> Bulma
-    - 광고 스크립트
-- 스크립트 조작
-    - 난독화
-    - Closure
-- 호환성 이슈
-    - 사파리 모바일
-    - IE
-    - babel
+- [호환성 이슈](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%B4%EC%8A%88)
+    - 오프닝, 사파리 모바일
+    - 피날레, IE
 - [소스 관리](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC)
     - 빌게이츠도 읽다가 던질 코드
     - IE 멈춰
