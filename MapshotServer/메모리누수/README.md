@@ -18,6 +18,9 @@ web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/mapshotServer-0.0.1-SNA
 
 ```
 ## 바꾼 후
-web: java -Dserver.port=$PORT -jar build/libs/mapshotServer-0.0.1-SNAPSHOT.jar -Xms256m -Xmx512m
+web: java -Dserver.port=$PORT -Xms256m -Xmx256m -jar build/libs/mapshotServer-0.0.1-SNAPSHOT.jar 
 ```
 아마 기본 옵션에 힙 할당 관련이 크게 잡혀서 가비지 컬렉터 작동 관련도 삐걱거린 것 같고, 저 옵션 추가 이후로는 무거운 작업을 할 때는 가끔 저 로그가 뜨긴 하지만 지속적으로 도배되는 상황은 이제 일어나지 않는다. 저 에러 로그가 버그란 말도 있고 해서 앞으로 더 지켜봐야 하겠지만, 당분간은 만나지 않길 바란다.
+
+## 22.01.29
+한참 더 찾아봤는데 서버 스펙이 너무 딸려서 에러 해결이 어려울 듯 하다. 무료 서버인지라 어쩔 수 없는 것 같다. 서버 스펙업 말고는 해결이 어렵다고 한다. 그나마 다행인건 최대한으로 부하테스트를 해봤는데 서버가 멈추거나 터지고 이런 상황까지는 오질 않아서, 당분간은 이 로그를 보며 써야 할 듯 하다.
