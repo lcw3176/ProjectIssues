@@ -71,7 +71,7 @@
 <details>
 <summary>Mapshot_Image_Api</summary>
 
-# Mapshot_Service_
+# Mapshot_Image_Api
 - [대기열](https://github.com/lcw3176/ProjectIssues/blob/master/Mapshot_Image_Api/%EB%8C%80%EA%B8%B0%EC%97%B4/README.md)
     - 줄을 서시오
     - 무슨 일 나면 깨워주세요
