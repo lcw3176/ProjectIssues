@@ -75,6 +75,12 @@
 - [대기열](https://github.com/lcw3176/ProjectIssues/blob/master/Mapshot_Image_Api/%EB%8C%80%EA%B8%B0%EC%97%B4/README.md)
     - 줄을 서시오
     - 무슨 일 나면 깨워주세요
+
+- [대기시간](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Image_Api/%EB%8C%80%EA%B8%B0%EC%8B%9C%EA%B0%84)
+    - 된 거야 만 거야?
+    - 경쟁 사회
+    - 평화로운 사회
+
 </details>
 
 
