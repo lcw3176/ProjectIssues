@@ -63,7 +63,7 @@
 - [무중단 배포](https://github.com/lcw3176/ProjectIssues/tree/master/Mashot_Service/%EB%AC%B4%EC%A4%91%EB%8B%A8%EB%B0%B0%ED%8F%AC)
     - 하나에 꽉꽉
     - 이게 의미가 있나?
-    - 마이크로서비스? 미들서비스(?) 
+    - 마이크로 미들(?) 서비스 
 
 </details>
 
