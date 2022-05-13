@@ -55,3 +55,27 @@
     - text? html?
     - 부분적 html
 </details>
+
+<details>
+<summary>Mapshot_Service</summary>
+
+# Mapshot_Service
+- [무중단 배포](https://github.com/lcw3176/ProjectIssues/tree/master/Mashot_Service/%EB%AC%B4%EC%A4%91%EB%8B%A8%EB%B0%B0%ED%8F%AC)
+    - 하나에 꽉꽉
+    - 이게 의미가 있나?
+    - 마이크로서비스? 미들서비스(?) 
+
+</details>
+
+
+<details>
+<summary>Mapshot_Image_Api</summary>
+
+# Mapshot_Service_
+- [대기열](https://github.com/lcw3176/ProjectIssues/blob/master/Mapshot_Image_Api/%EB%8C%80%EA%B8%B0%EC%97%B4/README.md)
+ 
+
+</details>
+
+
+
