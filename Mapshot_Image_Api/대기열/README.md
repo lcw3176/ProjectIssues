@@ -42,8 +42,8 @@ private volatile Queue<UserMapRequest> taskQueue = new LinkedList<>();
 그래서 Async를 통한 비동기 처리를 생각했다.
 
 ## 무슨 일 나면 깨워주세요
-그런데 async를 평범하게 사용한거 같진 않다.
-사실상 위에서 내가 하던 처리를 스프링한테 위임한 느낌이기도 하다. 왜 이런 말을 하냐면,
+고민후에 작성한 코드는 다음과 같다.
+위에서 하던 작업과 큰 맥락의 차이는 없지만, 중간중간 sleep을 통한 리소스 낭비가 사라져서 훨씬 효율적이라고 생각한다.
 ```java
     @Override
     public Executor getAsyncExecutor() {
@@ -57,8 +57,6 @@ private volatile Queue<UserMapRequest> taskQueue = new LinkedList<>();
         return executor;
     }
 ```
-이런 식으로 결국 한번에 하나의 작업만 순차적으로 처리하게 했기 때문이다.
-어쨋든 내가 의도한 바와 일치하게 작동했고, 현재도 이미지를 열심히 처리중이다.
 
 
 
