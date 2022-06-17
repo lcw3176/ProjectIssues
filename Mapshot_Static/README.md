@@ -28,3 +28,20 @@
 - [업데이트 시간](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%8B%9C%EA%B0%84)
     - 패치 타이밍, 근거가 필요하다   
     - Google Analytics로 본 가장의 무게
+
+
+- [메모리 누수](https://github.com/lcw3176/ProjectIssues/tree/master/MapshotServer/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%88%84%EC%88%98)
+    - 이거 진짜 새는겁니까?
+    - 아스라이 스쳐간 에러를 기억하며
+
+- 서비스 확장 1편(도시계획 레이어)
+    - [Mapshot_Web](https://github.com/lcw3176/ProjectIssues/tree/master/Mapshot_Web/%EC%84%9C%EB%B9%84%EC%8A%A4%ED%99%95%EC%9E%A51%ED%8E%B8)에서 확인 가능
+    
+- [서비스 확장 2편(카카오 지도)](https://github.com/lcw3176/ProjectIssues/tree/master/MapshotServer/%EC%84%9C%EB%B9%84%EC%8A%A4%ED%99%95%EC%9E%A52%ED%8E%B8)
+    - 두번의 실패는 없다
+    - 눈 좀 뜨세요 헤로쿠씨
+    - 대답없는 너
+
+- [공지사항 DB 자료 형식](https://github.com/lcw3176/ProjectIssues/tree/master/MapshotServer/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%ADDB%EC%9E%90%EB%A3%8C%ED%98%95%EC%8B%9D)
+    - text? html?
+    - 부분적 html
