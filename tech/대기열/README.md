@@ -13,24 +13,10 @@ private volatile Queue<UserMapRequest> taskQueue = new LinkedList<>();
         Thread thread = new Thread(() -> {
             while(true){
                 while(taskQueue.size() >= 1) {
-                    try{
-                        UserMapRequest request = taskQueue.poll();
-                        publisher.publishEvent(UserMapResponse.builder()
-                                .index(0)
-                                .imageData(driverService.capturePage(request.getUri()))
-                                .isDone(true)
-                                .session(request.getSession())
-                                .build());
-                    } catch (Exception e){
-                        log.error("지도 캡쳐 에러", e);
-                    }
+                    /// 지도 이미지 처리 로직
                 }
 
-                try {
-                    Thread.sleep(500);
-                } catch (InterruptedException e) {
-                    log.error("지도 캡쳐 에러", e);
-                }
+                Thread.sleep(500);
             }
         });
 
