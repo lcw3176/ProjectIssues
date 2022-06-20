@@ -31,6 +31,10 @@ private volatile Queue<UserMapRequest> taskQueue = new LinkedList<>();
 고민후에 작성한 코드는 다음과 같다.
 위에서 하던 작업과 큰 맥락의 차이는 없지만, 중간중간 sleep을 통한 리소스 낭비가 사라져서 훨씬 효율적이라고 생각한다.
 ```java
+@Configuration
+@EnableAsync
+public class AsyncConfig extends AsyncConfigurerSupport {
+
     @Override
     public Executor getAsyncExecutor() {
         ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
@@ -42,6 +46,18 @@ private volatile Queue<UserMapRequest> taskQueue = new LinkedList<>();
         executor.initialize();
         return executor;
     }
+}
+
+@Service
+public class TaskService {
+
+    @Async
+    public void execute(UserMapRequest request, WebSocketSession session){
+        // 이미지 캡쳐 및 UUID 전송 작업...
+    }
+
+}
+
 ```
 
 
