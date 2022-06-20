@@ -1,6 +1,7 @@
 # 대기 시간
 ## 된 거야 만 거야?
 ![화면 캡처 2022-06-20 080532](https://user-images.githubusercontent.com/59993347/174503663-73723d44-7979-4167-8a8f-dd7198dac286.jpg)
+![제목 없음](https://user-images.githubusercontent.com/59993347/174505317-06e80e00-f393-4bee-8754-0dd74e86b9ca.png)
 
 
 카카오, 구글 이미지 제작엔 꽤나 많은 시간이 소요된다. 적게는 10초부터 많게는 1분까지 걸리는데, 
