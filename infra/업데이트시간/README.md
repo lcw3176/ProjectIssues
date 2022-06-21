@@ -5,7 +5,7 @@
 일단 든 생각은 업무용 사이트니까 그냥 단순히 주말에 패치하면 되지 않을까 였지만, 
 보다 확실한 근거를 마련하기 위해 구글 Analytics를 달았다. 이를 통해 일별 접속자, 시간때 별 접속자 통계를 확인할 수 있었다.
 
-## Google Analytics로 본 가장의 무게
+## Google Analytics로 본 명분
 
 ![d오후3시](https://user-images.githubusercontent.com/59993347/174424354-57d6ba01-6428-45bc-9b4b-d5eb32dc84e2.jpg)
 ![오전9시](https://user-images.githubusercontent.com/59993347/174424356-1d7e6bf2-f25e-4576-8ddc-a5780e78aeca.jpg)
