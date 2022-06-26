@@ -42,7 +42,6 @@ public class AsyncConfig extends AsyncConfigurerSupport {
         executor.setMaxPoolSize(1);
         executor.setQueueCapacity(50);
         executor.setThreadNamePrefix("CAPTURE-ASYNC-");
-        executor.setKeepAliveSeconds(60 * 10);
         executor.initialize();
         return executor;
     }
