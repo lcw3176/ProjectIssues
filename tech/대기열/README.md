@@ -33,7 +33,7 @@ private volatile Queue<UserMapRequest> taskQueue = new LinkedList<>();
 ```java
 @Configuration
 @EnableAsync
-public class AsyncConfig extends AsyncConfigurerSupport {
+public class FactoryAsyncConfig extends AsyncConfigurerSupport {
 
     @Override
     public Executor getAsyncExecutor() {
@@ -48,7 +48,7 @@ public class AsyncConfig extends AsyncConfigurerSupport {
 }
 
 @Service
-public class TaskService {
+public class FactoryService {
 
     @Async
     public void execute(UserMapRequest request, WebSocketSession session){
