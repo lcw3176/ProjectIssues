@@ -29,8 +29,8 @@ API 서버로 헤로쿠를 이용해 보기도 했으나, 여러 제약사항들
 오라클은 무료로 서버 2개까지 제공하고, 고정 IP 제공부터 서버 스펙도 생각보다 널널했다. 오라클의 cpu 스펙이 감이 안와서 몇 가지 테스트 프로그램을 구동해 보았는데, 퍼포먼스가 어느정도 나와서 <strong>오라클로 사용</strong>하기로 결정했다.
 
 ### 코드 이주
-<div style="text-align:center;">
-<img src="https://user-images.githubusercontent.com/59993347/174504606-62f8dc21-6fbe-4b51-bbd2-91158cf7efbe.jpg" width=600 style="margin:10px;">
+<div>
+<img src="https://user-images.githubusercontent.com/59993347/174504606-62f8dc21-6fbe-4b51-bbd2-91158cf7efbe.jpg" width=600 style="text-align:center; margin:5px;">
 <p style="text-align:center; margin:5px;"><strong>관리자 페이지 공지사항 작성 창</strong></p>
 </div>
 
