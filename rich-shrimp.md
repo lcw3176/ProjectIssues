@@ -1,2 +1,0 @@
-# Rich Shrimp
-

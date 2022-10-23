@@ -13,4 +13,3 @@
   * [22.05 / 유저 몰리는 시간에 서비스 속도 저하](mapshot/22.05.md)
   * [22.06 / 이미지 제작 시간 줄이기](mapshot/22.06.md)
   * [22.07 / 대기 시간 알려주기](mapshot/22.07.md)
-* [Rich Shrimp](rich-shrimp.md)
