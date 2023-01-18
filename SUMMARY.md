@@ -14,5 +14,4 @@
   * [22.06 / 이미지 제작 시간 줄이기](mapshot/22.06.md)
   * [22.07 / 대기 시간 알려주기](mapshot/22.07.md)
   * [22.10 / 데이터 센터 화재](mapshot/22.10.md)
-  * [23.01 / 프로젝트 Reboot 1편](mapshot/23.01-reboot-1.md)
-  * [23.01 / 프로젝트 Reboot 2편](mapshot/23.01-reboot-2.md)
+  * [23.01 / 프로젝트 Reboot](mapshot/23.01-reboot.md)
