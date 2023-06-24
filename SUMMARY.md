@@ -22,5 +22,3 @@
   * [1. 람다를 이용한 분산 작업 처리 구축기](troubleshooting-and-thinking/1..md)
   * [2. 통신사 차단으로 인한 서비스 장애 대응](troubleshooting-and-thinking/2..md)
   * [3. 모니터링 시스템 구축기](troubleshooting-and-thinking/3..md)
-  * [4. 레거시 코드 리팩토링](troubleshooting-and-thinking/4..md)
-  * [5. 광고 수익과 DAU](troubleshooting-and-thinking/5.-dau.md)
