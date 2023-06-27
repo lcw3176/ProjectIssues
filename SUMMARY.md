@@ -22,4 +22,4 @@
   * [1. 람다를 이용한 분산 작업 처리 구축기](troubleshooting-and-thinking/1..md)
   * [2. 통신사 차단으로 인한 서비스 장애 대응](troubleshooting-and-thinking/2..md)
   * [3. 모니터링 시스템 구축기](troubleshooting-and-thinking/3..md)
-  * [4. 해결이 반드시 코드일 필요는 없다](troubleshooting-and-thinking/4..md)
+  * [4. 문제의 해결은 항상 코드일까?](troubleshooting-and-thinking/4..md)
