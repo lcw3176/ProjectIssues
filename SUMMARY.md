@@ -18,6 +18,7 @@
   * [23.02 / 모놀리식과 MSA](mapshot/23.02-msa.md)
   * [23.05 / 멀티모듈 찰나 사용기](mapshot/23.05.md)
   * [23.06 / 서비스 기능 확장 2](mapshot/23.06-2.md)
+  * [23.06 / DB 서버 장애](mapshot/23.06-db.md)
 * [Troubleshooting & Thinking](troubleshooting-and-thinking/README.md)
   * [1. 람다를 이용한 분산 작업 처리 구축기](troubleshooting-and-thinking/1..md)
   * [2. 통신사 차단으로 인한 서비스 장애 대응](troubleshooting-and-thinking/2..md)
