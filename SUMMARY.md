@@ -25,3 +25,4 @@
   * [3. 모니터링 시스템 구축기](troubleshooting-and-thinking/3..md)
   * [4. 문제의 해결은 항상 코드일까?](troubleshooting-and-thinking/4..md)
   * [5. nGrinder를 활용한 부하 테스트](troubleshooting-and-thinking/5.-ngrinder.md)
+  * [6. 간헐적 오류 잡기](troubleshooting-and-thinking/6..md)
