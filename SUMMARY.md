@@ -20,6 +20,7 @@
   * [23.06 / 서비스 기능 확장 2](mapshot/23.06-2.md)
   * [23.06 / DB 서버 장애](mapshot/23.06-db.md)
 * [Troubleshooting & Thinking](troubleshooting-and-thinking/README.md)
+  * [0. 맵샷이 해결하고자 한 문제](troubleshooting-and-thinking/0..md)
   * [1. 람다를 이용한 분산 작업 처리 구축기](troubleshooting-and-thinking/1..md)
   * [2. 통신사 차단으로 인한 서비스 장애 대응](troubleshooting-and-thinking/2..md)
   * [3. 모니터링 시스템 구축기](troubleshooting-and-thinking/3..md)
