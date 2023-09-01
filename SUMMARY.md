@@ -19,7 +19,7 @@
   * [23.05 / 멀티모듈 찰나 사용기](mapshot/23.05.md)
   * [23.06 / 서비스 기능 확장 2](mapshot/23.06-2.md)
   * [23.06 / DB 서버 장애](mapshot/23.06-db.md)
-  * [23.08 / 이미지 렌더링 문제](mapshot/23.08.md)
+  * [23.09 / 이미지 렌더링 문제](mapshot/23.09.md)
 * [Troubleshooting & Thinking](troubleshooting-and-thinking/README.md)
   * [0. 맵샷이 해결하고자 한 문제](troubleshooting-and-thinking/0..md)
   * [1. 람다를 이용한 분산 작업 처리 구축기](troubleshooting-and-thinking/1..md)
