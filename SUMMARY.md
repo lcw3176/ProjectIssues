@@ -28,3 +28,5 @@
   * [4. 문제의 해결은 항상 코드일까?](troubleshooting-and-thinking/4..md)
   * [5. nGrinder를 활용한 부하 테스트](troubleshooting-and-thinking/5.-ngrinder.md)
   * [6. 간헐적 오류 잡기](troubleshooting-and-thinking/6..md)
+* [LIVE](live/README.md)
+  * [23.09 / 익명 게시판(가제)](live/23.09.md)
