@@ -21,6 +21,7 @@
   * [23.06 / DB 서버 장애](mapshot/23.06-db.md)
   * [23.09 / 이미지 렌더링 문제](mapshot/23.09.md)
   * [24.03 / 네이티브 이미지 사용기](mapshot/24.03.md)
+  * [24.03 / AWS 람다를 이용한 서비스 폭파 후기](mapshot/24.03-aws.md)
 * [Troubleshooting & Thinking](troubleshooting-and-thinking/README.md)
   * [0. 맵샷이 해결하고자 한 문제](troubleshooting-and-thinking/0..md)
   * [1. 람다를 이용한 분산 작업 처리 구축기](troubleshooting-and-thinking/1..md)
