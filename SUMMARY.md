@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Mapshot](mapshot/README.md)
-  * [24.08 / 네이버의 서비스 정지 예고](mapshot/24.08.md)
+  * [24.08 / 트래픽 유량제어](mapshot/24.08.md)
   * [24.04 / 머리 아픈 클라우드플레어와 망사용료](mapshot/24.04.md)
   * [24.03 / AWS 람다를 이용한 서비스 폭파 후기](mapshot/24.03-aws.md)
   * [23.09 / 이미지 렌더링 문제](mapshot/23.09.md)
